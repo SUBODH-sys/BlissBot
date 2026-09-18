@@ -1,0 +1,1523 @@
+[
+  {
+    "id": "nimh_5-action-steps-to-help-someone-having-thoughts-of-suicide_01",
+    "topic": "suicide_prevention",
+    "question": "If I'm worried someone might be suicidal, is it okay to just ask them directly?",
+    "answer": "Yes. Directly asking someone \"Are you thinking about suicide?\" is the first of the 5 action steps. Research shows that asking people if they are suicidal does not increase suicidal behavior or thoughts, and the question can help open up a conversation.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide"
+  },
+  {
+    "id": "nimh_5-action-steps-to-help-someone-having-thoughts-of-suicide_02",
+    "topic": "suicide_prevention",
+    "question": "What does the 'Be There' step actually involve?",
+    "answer": "Being there means listening without judgment so you can understand what the person is thinking and feeling. Research suggests that acknowledging and talking openly about suicide may actually reduce suicidal thoughts rather than increase them.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide"
+  },
+  {
+    "id": "nimh_5-action-steps-to-help-someone-having-thoughts-of-suicide_03",
+    "topic": "suicide_prevention",
+    "question": "How can I help keep someone safe if they're having suicidal thoughts?",
+    "answer": "You can help by reducing their access to highly lethal items or places. Ask the person if they have a specific plan, and work to make any lethal means less available or less dangerous, since this can help keep them safe when suicidal thoughts arise.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide"
+  },
+  {
+    "id": "nimh_5-action-steps-to-help-someone-having-thoughts-of-suicide_04",
+    "topic": "suicide_prevention",
+    "question": "What resource should I connect someone to if they're in crisis?",
+    "answer": "You can help them connect with the 988 Suicide & Crisis Lifeline by calling or texting 988. You can also help them reach out to a trusted family member, friend, spiritual advisor, or mental health professional for additional support.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide"
+  },
+  {
+    "id": "nimh_5-action-steps-to-help-someone-having-thoughts-of-suicide_05",
+    "topic": "suicide_prevention",
+    "question": "Does staying in touch after a crisis actually make a difference?",
+    "answer": "Yes. Studies show that supportive, ongoing contact after someone has experienced a crisis or been discharged from care can play an important role in suicide prevention, which is why following up is listed as one of the five key action steps.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/5-action-steps-to-help-someone-having-thoughts-of-suicide"
+  },
+  {
+    "id": "nimh_adhd-what-you-need-to-know_01",
+    "topic": "adhd_adults",
+    "question": "Can adults actually have ADHD, or is it just a childhood condition?",
+    "answer": "Adults can have ADHD. It's considered a developmental disorder because symptoms must begin in childhood, but many adults continue to have or are diagnosed with the condition, which is marked by a persistent pattern of inattention and/or hyperactivity-impulsivity affecting at least two areas of life.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_adhd-what-you-need-to-know_02",
+    "topic": "adhd_adults",
+    "question": "How is ADHD diagnosed differently in adults compared to children?",
+    "answer": "The main difference is the number of required symptoms: adults and adolescents over 16 need to show five symptoms of inattention or hyperactivity-impulsivity, compared to six symptoms required for younger children, though adults must still show that symptoms began before age 12.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_adhd-what-you-need-to-know_03",
+    "topic": "adhd_adults",
+    "question": "Why might someone not get diagnosed with ADHD until they're an adult?",
+    "answer": "Reasons include teachers or parents not recognizing the disorder, a supportive environment that helped the person cope despite symptoms, or a milder form of ADHD that became harder to manage under the stresses of adult life. Symptoms in girls and women are especially likely to be missed in childhood.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_adhd-what-you-need-to-know_04",
+    "topic": "adhd_adults",
+    "question": "What treatments are available for adults with ADHD?",
+    "answer": "The most common treatments are medication, usually stimulants, and psychotherapy, including behavioral and cognitive behavioral therapy. Treatment often involves combining several approaches, and people may need to try multiple options before finding what works for them.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_attention-deficit-hyperactivity-disorder-what-you-need-to-know_01",
+    "topic": "adhd_general",
+    "question": "What are the main symptom categories of ADHD?",
+    "answer": "ADHD involves an ongoing pattern of inattention (difficulty paying attention), hyperactivity (showing too much energy or moving and talking too much), and impulsivity (acting without thinking or having difficulty with self-control). People may show mostly one type of symptom or a combination.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_attention-deficit-hyperactivity-disorder-what-you-need-to-know_02",
+    "topic": "adhd_general",
+    "question": "What causes ADHD?",
+    "answer": "Researchers aren't certain what causes ADHD, though many studies suggest genes play a large role. ADHD likely results from a combination of factors, including differences in brain development and environmental influences like brain injuries, nutrition, and social environment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_attention-deficit-hyperactivity-disorder-what-you-need-to-know_03",
+    "topic": "adhd_general",
+    "question": "What are the three types of ADHD?",
+    "answer": "The three types are inattentive (mostly symptoms of inattention), hyperactive-impulsive (mostly symptoms of hyperactivity and impulsivity), and combined (symptoms of both inattention and hyperactivity-impulsivity).",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_attention-deficit-hyperactivity-disorder-what-you-need-to-know_04",
+    "topic": "adhd_general",
+    "question": "Does ADHD look the same in boys/men and girls/women?",
+    "answer": "No. Boys and men tend to display more hyperactive and impulsive symptoms, while girls and women are more likely to be diagnosed with the inattentive type of ADHD.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_attention-deficit-hyperactivity-disorder-what-you-need-to-know_05",
+    "topic": "adhd_general",
+    "question": "What self-help strategies can help manage ADHD symptoms?",
+    "answer": "Helpful strategies include getting regular exercise, eating regular healthy meals, getting 7-9 hours of sleep and turning off screens an hour before bed, sticking to a consistent routine, working on time management, taking short breaks during focus-heavy tasks, and maintaining supportive relationships.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/attention-deficit-hyperactivity-disorder-what-you-need-to-know"
+  },
+  {
+    "id": "nimh_autism-spectrum-disorder_01",
+    "topic": "autism_spectrum_disorder",
+    "question": "What is autism spectrum disorder?",
+    "answer": "Autism spectrum disorder (ASD) is a neurological and developmental disorder that affects how people interact with others, communicate, learn, and behave. It's called a developmental disorder because symptoms generally appear in the first two years of life, and it's known as a \"spectrum\" because people with autism have a wide range of characteristics, needs, strengths, and challenges.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder"
+  },
+  {
+    "id": "nimh_autism-spectrum-disorder_02",
+    "topic": "autism_spectrum_disorder",
+    "question": "At what age can autism typically be reliably diagnosed?",
+    "answer": "ASD can usually be reliably diagnosed by age 2, and it's important to seek an evaluation as soon as possible, since earlier diagnosis allows treatments and services to begin sooner.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder"
+  },
+  {
+    "id": "nimh_autism-spectrum-disorder_03",
+    "topic": "autism_spectrum_disorder",
+    "question": "What factors are associated with an increased likelihood of developing ASD?",
+    "answer": "Factors associated with increased likelihood include having a sibling with ASD, having older parents, having certain genetic conditions such as Down syndrome or Fragile X syndrome, and having a very low birth weight. Having these factors doesn't mean a person will necessarily develop ASD.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder"
+  },
+  {
+    "id": "nimh_autism-spectrum-disorder_04",
+    "topic": "autism_spectrum_disorder",
+    "question": "Why is diagnosing autism in adults more difficult than in children?",
+    "answer": "Diagnosing ASD in adults is often more difficult because some ASD symptoms can overlap with symptoms of other conditions, such as anxiety disorders or ADHD, and evaluation approaches for adults are still being refined.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder"
+  },
+  {
+    "id": "nimh_autism-spectrum-disorder_05",
+    "topic": "autism_spectrum_disorder",
+    "question": "What strengths might people on the autism spectrum have?",
+    "answer": "People on the autism spectrum may have strengths such as learning things in detail and remembering information for long periods of time, being strong visual and auditory learners, and excelling in areas like math, science, music, or art.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/autism-spectrum-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder_01",
+    "topic": "bipolar_disorder",
+    "question": "What is bipolar disorder?",
+    "answer": "Bipolar disorder is a mental illness, which can be chronic or episodic, in which people experience manic episodes of unusually elevated mood and activity, and depressive episodes marked by sadness, hopelessness, and very low activity. Some people also experience less severe hypomanic episodes.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder_02",
+    "topic": "bipolar_disorder",
+    "question": "What's the difference between bipolar I and bipolar II disorder?",
+    "answer": "Bipolar I disorder involves manic episodes lasting at least 7 days or severe enough to require hospital care, usually with separate depressive episodes lasting at least 2 weeks. Bipolar II disorder involves a pattern of depressive and hypomanic episodes, where the hypomanic episodes are less severe than the full manic episodes seen in bipolar I.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder_03",
+    "topic": "bipolar_disorder",
+    "question": "What medications are commonly used to treat bipolar disorder?",
+    "answer": "The most common medications are mood stabilizers, such as lithium or valproate, and atypical antipsychotics. Mood stabilizers can help prevent mood episodes or reduce their severity, and lithium specifically can decrease the risk of suicide. Antidepressants are not used alone because they can trigger a manic episode.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder_04",
+    "topic": "bipolar_disorder",
+    "question": "What role does genetics play in bipolar disorder?",
+    "answer": "Bipolar disorder often runs in families, and this is mostly explained by heredity, meaning people with certain genes are more likely to develop it. Many genes are involved, and no single gene causes the disorder; people with a genetic risk may be more likely to develop it after experiencing trauma or stressful life events.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder_05",
+    "topic": "bipolar_disorder",
+    "question": "What can I do to help a loved one with bipolar disorder?",
+    "answer": "You can offer emotional support, understanding, patience, and encouragement; listen and be open to their experiences; understand their triggers and watch for major mood changes; include them in fun activities; remind them that getting better is possible with the right treatment; and offer practical help like driving them to appointments, while also taking care of yourself.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-children-and-teens_01",
+    "topic": "bipolar_disorder_children_teens",
+    "question": "Can children really have bipolar disorder, or is it just an adult condition?",
+    "answer": "Children can have bipolar disorder. While it's a common misperception that children cannot have it, and most people are diagnosed in adolescence or adulthood, symptoms can appear earlier in childhood.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-children-and-teens_02",
+    "topic": "bipolar_disorder_children_teens",
+    "question": "How is bipolar disorder in kids different from normal childhood mood swings?",
+    "answer": "Bipolar disorder involves mood changes that are more extreme, often unprovoked, and accompanied by changes in sleep, energy level, and the ability to think clearly, unlike the typical ups and downs every child goes through.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-children-and-teens_03",
+    "topic": "bipolar_disorder_children_teens",
+    "question": "What does a manic episode look like in a child or teen?",
+    "answer": "During a manic episode, children and teens may show intense happiness or silliness for long periods, have a short temper or seem extremely irritable, talk fast about many topics, have trouble sleeping without feeling tired, have racing thoughts, and engage in risky or reckless behavior with poor judgment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-children-and-teens_04",
+    "topic": "bipolar_disorder_children_teens",
+    "question": "Are there blood tests or brain scans that can diagnose bipolar disorder in children?",
+    "answer": "No. There are no blood tests or brain scans that can diagnose bipolar disorder. A health care provider will instead ask about the child's mood, sleep patterns, energy levels, and behavior, and may use tests to rule out other causes for the symptoms.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-children-and-teens_05",
+    "topic": "bipolar_disorder_children_teens",
+    "question": "How can I help my child or teen who has bipolar disorder?",
+    "answer": "You can be patient, encourage your child to talk and listen carefully, pay attention to their moods and watch for major changes, understand their triggers, help them have fun, and remember that treatment takes time but sticking with the plan can help them get better and stay better.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-teens-and-young-adults-know-the-signs_01",
+    "topic": "bipolar_disorder_teens_signs",
+    "question": "What are some common signs of a manic episode in teens and young adults?",
+    "answer": "Common signs of mania include showing intense happiness or silliness, having a very short temper or seeming extremely irritable, talking very fast or having racing thoughts, having an inflated sense of ability or power, and doing reckless things that show poor judgment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-teens-and-young-adults-know-the-signs_02",
+    "topic": "bipolar_disorder_teens_signs",
+    "question": "What are some common signs of a depressive episode in teens and young adults?",
+    "answer": "Common signs of depression include feeling very sad or hopeless, feeling lonely or isolating from others, eating too much or too little, having little energy and no interest in usual activities, and sleeping too much.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs"
+  },
+  {
+    "id": "nimh_bipolar-disorder-in-teens-and-young-adults-know-the-signs_03",
+    "topic": "bipolar_disorder_teens_signs",
+    "question": "How long do bipolar episodes typically last in teens and young adults?",
+    "answer": "Bipolar disorder causes unusual and extreme shifts in mood, marked by episodes of mania and depression, and during these episodes symptoms last for days or weeks at a time.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs"
+  },
+  {
+    "id": "nimh_borderline-personality-disorder_01",
+    "topic": "borderline_personality_disorder",
+    "question": "What is borderline personality disorder?",
+    "answer": "Borderline personality disorder is a serious mental illness that affects how a person feels about themselves and others and makes it hard to function in everyday life. It often involves difficulty regulating emotions, leading to impulsivity, an unstable sense of self, and troubled relationships with others.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+  },
+  {
+    "id": "nimh_borderline-personality-disorder_02",
+    "topic": "borderline_personality_disorder",
+    "question": "What risk factors are linked to developing borderline personality disorder?",
+    "answer": "Risk factors include having a close family member with the disorder, structural and functional brain changes especially in areas that control impulses and regulate emotions, and environmental or social factors such as traumatic childhood events like abuse, neglect, or unstable relationships. Having these factors doesn't guarantee someone will develop the disorder.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+  },
+  {
+    "id": "nimh_borderline-personality-disorder_03",
+    "topic": "borderline_personality_disorder",
+    "question": "What is the main treatment approach for borderline personality disorder?",
+    "answer": "Psychotherapy, or talk therapy, is the primary treatment. Dialectical behavior therapy (DBT), developed specifically for this disorder, teaches skills to control intense emotions, reduce self-destructive behaviors, and improve relationships. Cognitive behavioral therapy (CBT) can also help reduce mood swings, anxiety, and self-harming or suicidal behaviors.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+  },
+  {
+    "id": "nimh_borderline-personality-disorder_04",
+    "topic": "borderline_personality_disorder",
+    "question": "Is medication a first-line treatment for borderline personality disorder?",
+    "answer": "No. The benefits of medication for borderline personality disorder are unclear, and it is not a first-line treatment. A provider may still recommend medication as an add-on to psychotherapy to treat specific symptoms or co-occurring conditions.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+  },
+  {
+    "id": "nimh_borderline-personality-disorder_05",
+    "topic": "borderline_personality_disorder",
+    "question": "At what age is borderline personality disorder usually diagnosed?",
+    "answer": "Borderline personality disorder is usually diagnosed in late adolescence or early adulthood. Occasionally, someone younger than 18 may be diagnosed if their symptoms are severe and have lasted at least a year.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/borderline-personality-disorder"
+  },
+  {
+    "id": "nimh_children-and-mental-health_01",
+    "topic": "children_mental_health",
+    "question": "How can I tell if my child's behavior is a normal phase or a sign of a mental health concern?",
+    "answer": "Consider seeking help if your child's behavior or emotions last for weeks or longer, cause distress for your child or family, or interfere with functioning at school, home, or with friends. If your child's behavior is unsafe or they talk about wanting to hurt themselves or someone else, seek help immediately.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health"
+  },
+  {
+    "id": "nimh_children-and-mental-health_02",
+    "topic": "children_mental_health",
+    "question": "What mental disorders commonly begin in childhood?",
+    "answer": "Many mental disorders can begin in childhood, including anxiety disorders, attention-deficit/hyperactivity disorder (ADHD), depression and other mood disorders, eating disorders, and post-traumatic stress disorder (PTSD). Early treatment can help children manage symptoms and support their social and emotional well-being.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health"
+  },
+  {
+    "id": "nimh_children-and-mental-health_03",
+    "topic": "children_mental_health",
+    "question": "What does a comprehensive evaluation of a child's mental health usually involve?",
+    "answer": "A comprehensive evaluation usually involves a parent interview covering the child's developmental history, temperament, relationships, medical history, and prior treatment; gathering information from the child's school, such as test scores and behavior reports; and, if needed, an interview with the child for testing and behavioral observations.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health"
+  },
+  {
+    "id": "nimh_children-and-mental-health_04",
+    "topic": "children_mental_health",
+    "question": "Where should I start if I'm concerned about my child's mental health?",
+    "answer": "A good first step is talking with others who frequently interact with your child, such as asking a teacher about their behavior at school. You can then talk with your child's pediatrician or health care provider about what you've observed and ask for a referral to a mental health professional experienced with children.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health"
+  },
+  {
+    "id": "nimh_children-and-mental-health_05",
+    "topic": "children_mental_health",
+    "question": "What treatment options might a mental health professional recommend for a child?",
+    "answer": "Options include psychotherapy (talk therapy), which often involves parent involvement and between-session skill practice; medications such as antidepressants, stimulants, or mood stabilizers depending on the diagnosis; family counseling to help relatives understand how the child's challenges affect the family; and support for parents through individual or group sessions.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/children-and-mental-health"
+  },
+  {
+    "id": "nimh_depression_01",
+    "topic": "depression",
+    "question": "What exactly is depression, and how is it different from just feeling sad?",
+    "answer": "Everyone feels sad or low sometimes, but those feelings usually pass. Depression (also called major depression, major depressive disorder, or clinical depression) is different — it can cause severe symptoms that affect how a person feels, thinks, and handles daily activities such as sleeping, eating, or working.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression"
+  },
+  {
+    "id": "nimh_depression_02",
+    "topic": "depression",
+    "question": "What are the two common types of depression?",
+    "answer": "Major depression includes symptoms of depressed mood or loss of interest, most of the time for at least 2 weeks, that interfere with daily activities. Persistent depressive disorder (also called dysthymia) consists of less severe depression symptoms that last much longer, usually for at least 2 years.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression"
+  },
+  {
+    "id": "nimh_depression_03",
+    "topic": "depression",
+    "question": "How long do symptoms need to last before someone is diagnosed with depression?",
+    "answer": "To be diagnosed with depression, a person must have symptoms most of the day, nearly every day, for at least 2 weeks, and one of the symptoms must be a depressed mood or a loss of interest or pleasure in most activities.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression"
+  },
+  {
+    "id": "nimh_depression_04",
+    "topic": "depression",
+    "question": "What treatments are available for depression?",
+    "answer": "Depression treatment typically involves psychotherapy (in person or virtual), medication, or both. If these treatments do not reduce symptoms sufficiently, brain stimulation therapy may be another option.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression"
+  },
+  {
+    "id": "nimh_depression_05",
+    "topic": "depression",
+    "question": "Is it normal to feel like antidepressants aren't working right away?",
+    "answer": "Yes — antidepressants take time, usually 4 to 8 weeks, to work, and problems with sleep, appetite, and concentration often improve before mood lifts, so giving a medication a chance to work is important before deciding whether it is right for you.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression"
+  },
+  {
+    "id": "nimh_depression_in_women_01",
+    "topic": "depression_in_women",
+    "question": "What causes depression in women?",
+    "answer": "Research suggests that depression is caused by a combination of genetic, biological, environmental, and psychological factors. All people can feel depressed, but the disorder is especially common among women due to unique biological, hormonal, and social experiences.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression-in-women"
+  },
+  {
+    "id": "nimh_depression_in_women_02",
+    "topic": "depression_in_women",
+    "question": "Are there types of depression that are unique to women?",
+    "answer": "Yes. Premenstrual dysphoric disorder is a more intense form of PMS that occurs in the weeks before menstruation; perinatal depression occurs during pregnancy or after childbirth and is more than the 'baby blues'; and perimenopausal depression affects some women during the transition to menopause.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression-in-women"
+  },
+  {
+    "id": "nimh_depression_in_women_03",
+    "topic": "depression_in_women",
+    "question": "Can a woman with depression just 'snap out of it'?",
+    "answer": "No. Depression is not brought on by anything a woman has or has not done, and it is not something she can 'snap out' of — most women need treatment to feel better.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression-in-women"
+  },
+  {
+    "id": "nimh_depression_in_women_04",
+    "topic": "depression_in_women",
+    "question": "What treatments help women with depression?",
+    "answer": "Common treatments are antidepressant medication, talk therapy (virtual or in person), or a combination of medication and therapy. There is no 'one-size-fits-all' for treatment, so it may take trial and error to find the best one.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/depression-in-women"
+  },
+  {
+    "id": "nimh_dmdd_01",
+    "topic": "disruptive_mood_dysregulation_disorder",
+    "question": "What is disruptive mood dysregulation disorder (DMDD)?",
+    "answer": "DMDD is a condition in which children or adolescents experience ongoing irritability, anger, and frequent, intense temper outbursts. The symptoms of DMDD go beyond a 'bad mood' — DMDD symptoms are severe.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder"
+  },
+  {
+    "id": "nimh_dmdd_02",
+    "topic": "disruptive_mood_dysregulation_disorder",
+    "question": "What are the signs and symptoms of DMDD?",
+    "answer": "Children or adolescents with DMDD experience severe temper outbursts (verbal or behavioral) on average 3 or more times per week, outbursts that have been happening regularly for at least 12 months, chronically irritable or angry mood most of the day nearly every day, and trouble functioning due to irritability in more than one setting, such as at home, at school, or with peers.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder"
+  },
+  {
+    "id": "nimh_dmdd_03",
+    "topic": "disruptive_mood_dysregulation_disorder",
+    "question": "When was DMDD officially recognized as a diagnosis?",
+    "answer": "DMDD was added to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) in 2013. The DSM is used to assess and diagnose mental disorders.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder"
+  },
+  {
+    "id": "nimh_dmdd_04",
+    "topic": "disruptive_mood_dysregulation_disorder",
+    "question": "How is DMDD treated?",
+    "answer": "Treatment for DMDD generally includes certain types of psychotherapy and sometimes medications. In many cases, psychotherapy is considered first, with medication added later, though at times providers recommend that children receive both psychotherapy and medication at the start of treatment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/disruptive-mood-dysregulation-disorder"
+  },
+  {
+    "id": "nimh_eating_disorders_01",
+    "topic": "eating_disorders",
+    "question": "What are eating disorders?",
+    "answer": "Eating disorders are serious illnesses marked by severe disturbances to one's eating behaviors. They are not a choice, can adversely affect a person's physical and mental health, and in some cases can be life-threatening; with treatment, however, people can recover.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+  },
+  {
+    "id": "nimh_eating_disorders_02",
+    "topic": "eating_disorders",
+    "question": "What are the common types of eating disorders?",
+    "answer": "Common types include anorexia nervosa (severe avoidance or restriction of food intake due to a distorted self-image or intense fear of gaining weight), binge-eating disorder (regularly losing control of eating and eating unusually large amounts), bulimia nervosa (regularly binge eating followed by unhealthy behaviors like forced vomiting to prevent weight gain), and avoidant restrictive food intake disorder, or ARFID (limiting the amount and variety of food eaten due to anxiety, fear, or dislike of food characteristics).",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+  },
+  {
+    "id": "nimh_eating_disorders_03",
+    "topic": "eating_disorders",
+    "question": "Can you tell if someone has an eating disorder just by their weight?",
+    "answer": "No. Eating disorders can affect people of all ages, racial and ethnic backgrounds, body weights, and sexes — even people who appear healthy can have eating disorders and be extremely ill, and people with eating disorders can be underweight, average weight, or overweight.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+  },
+  {
+    "id": "nimh_eating_disorders_04",
+    "topic": "eating_disorders",
+    "question": "What mental illnesses commonly co-occur with eating disorders?",
+    "answer": "People with eating disorders are at risk for co-occurring mental illnesses, which most often include depression, anxiety, and substance use disorders. People with eating disorders are also at a higher risk for suicide.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+  },
+  {
+    "id": "nimh_eating_disorders_05",
+    "topic": "eating_disorders",
+    "question": "How are eating disorders treated?",
+    "answer": "Treatment plans include individual, group, or family psychotherapy; medical care and monitoring; nutritional counseling; and medication to treat symptoms of some eating disorders and reduce co-occurring anxiety or depression. There are currently no FDA-approved medications to treat the symptoms of anorexia nervosa or ARFID.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/eating-disorders"
+  },
+  {
+    "id": "nimh_suicide_faq_01",
+    "topic": "suicide_prevention",
+    "question": "What's the difference between suicide and a suicide attempt?",
+    "answer": "Suicide is when people harm themselves with the goal of ending their life, and they die as a result. A suicide attempt is when people harm themselves with the goal of ending their life, but they do not die.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  {
+    "id": "nimh_suicide_faq_02",
+    "topic": "suicide_prevention",
+    "question": "What are the main risk factors for suicide?",
+    "answer": "Main risk factors include a history of suicide attempts, depression or other mental disorders or substance use disorder, chronic pain, family history of a mental disorder or substance use or of suicide, exposure to family violence, presence of guns or other firearms in the home, having recently been released from prison or jail, and exposure to others' suicidal behavior.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  {
+    "id": "nimh_suicide_faq_03",
+    "topic": "suicide_prevention",
+    "question": "Does asking someone if they're thinking about suicide make it more likely to happen?",
+    "answer": "No. Studies have shown that asking people about suicidal thoughts and behaviors does not cause or increase such thoughts. Asking someone directly, 'Are you thinking of killing yourself?' can be the best way to identify someone at risk for suicide.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  {
+    "id": "nimh_suicide_faq_04",
+    "topic": "suicide_prevention",
+    "question": "What warning signs suggest someone may be at immediate risk of suicide?",
+    "answer": "Warning signs include talking about wanting to die or feeling empty, hopeless, or trapped; feeling unbearable pain; talking about being a burden to others; withdrawing from family and friends; giving away important possessions; saying goodbye to people; putting affairs in order; and taking great risks that could lead to death.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  {
+    "id": "nimh_suicide_faq_05",
+    "topic": "suicide_prevention",
+    "question": "What treatment options and therapies help reduce suicide risk?",
+    "answer": "Effective, evidence-based interventions include Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), brief intervention strategies such as creating a safety plan and increasing safe storage of lethal means, and Collaborative Care, a team-based approach shown to help treat depression and reduce suicidal thoughts.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/suicide-faq"
+  },
+  {
+    "id": "nimh_gad_01",
+    "topic": "generalized_anxiety_disorder",
+    "question": "What is generalized anxiety disorder (GAD)?",
+    "answer": "GAD usually involves a persistent feeling of anxiety or dread that interferes with how you live your life. People with GAD feel extremely worried or nervous more frequently or more intensely about everyday things—even when the worry is out of proportion with the situation—and these feelings can last for months or even years.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad"
+  },
+  {
+    "id": "nimh_gad_02",
+    "topic": "generalized_anxiety_disorder",
+    "question": "What are common signs and symptoms of GAD?",
+    "answer": "People with GAD may worry excessively about everyday things, have trouble controlling their worries, feel irritable or 'on edge,' feel restless, have a hard time concentrating, have trouble sleeping or feel fatigued, experience pain such as headaches or muscle aches, tremble or twitch, sweat a lot, or feel lightheaded or out of breath.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad"
+  },
+  {
+    "id": "nimh_gad_03",
+    "topic": "generalized_anxiety_disorder",
+    "question": "How is GAD diagnosed?",
+    "answer": "To be diagnosed with GAD, a person must find it difficult to control worry on most days for at least 6 months, and must also have at least three of these symptoms: feeling restless or 'on edge,' fatigue, trouble concentrating, irritability, muscle tension, or problems with sleep.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad"
+  },
+  {
+    "id": "nimh_gad_04",
+    "topic": "generalized_anxiety_disorder",
+    "question": "What treatments are used for GAD?",
+    "answer": "GAD treatment typically involves psychotherapy, medication, or both. Cognitive behavioral therapy (CBT) is commonly used and considered the 'gold standard' choice for psychotherapy, and acceptance and commitment therapy (ACT) is another option. Medications can include antidepressants such as SSRIs and SNRIs, and anti-anxiety medications such as benzodiazepines and buspirone.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad"
+  },
+  {
+    "id": "nimh_gad_05",
+    "topic": "generalized_anxiety_disorder",
+    "question": "How is GAD different from normal, everyday stress?",
+    "answer": "Stress is the physical or mental response to an external cause, such as having a lot of homework or an illness, and a stressor may be one-time or repeated. Anxiety is the body's reaction to stress and can occur even if there is no current threat; if anxiety doesn't go away and begins to interfere with daily activities, it may indicate an anxiety disorder like GAD.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad"
+  },
+  {
+    "id": "nimh_child_trauma_01",
+    "topic": "helping_children_cope_with_trauma",
+    "question": "How do children and adolescents typically respond to traumatic events?",
+    "answer": "Regardless of age, children and adolescents may report physical problems such as stomachaches or headaches, have nightmares or other sleep problems, have trouble concentrating, lose interest in activities they normally enjoy, feel guilt for not preventing injuries or deaths, or have thoughts of revenge.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events"
+  },
+  {
+    "id": "nimh_child_trauma_02",
+    "topic": "helping_children_cope_with_trauma",
+    "question": "How might very young children react differently to trauma than older kids?",
+    "answer": "Young children (age 5 and younger) may cling to caregivers, cry, have tantrums, suddenly return to behaviors such as bed-wetting and thumb-sucking, show increased fearfulness, or incorporate aspects of the traumatic event into imaginary play, while older children and adolescents may have problems in school, withdraw from family and friends, avoid reminders of the event, or use drugs, alcohol, or tobacco.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events"
+  },
+  {
+    "id": "nimh_child_trauma_03",
+    "topic": "helping_children_cope_with_trauma",
+    "question": "What can parents and caregivers do to help a child cope after a traumatic event?",
+    "answer": "Adults can help by ensuring children's safety and basic needs are addressed, allowing them to be sad or cry, letting them talk, write, or draw about the event and their feelings, limiting exposure to repetitive news reports, sticking to routines, and helping them feel in control by letting them make some decisions for themselves.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events"
+  },
+  {
+    "id": "nimh_child_trauma_04",
+    "topic": "helping_children_cope_with_trauma",
+    "question": "When should a family reach out to a health care provider after a child experiences trauma?",
+    "answer": "Many trauma reactions are normal and will lessen with time, but if these symptoms last for more than a month, the family should reach out to a health care provider. Adults should also contact a provider if new problems develop, particularly flashbacks, a racing heart and sweating, being easily startled, emotional numbness, or being very sad or depressed for more than a few weeks.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events"
+  },
+  {
+    "id": "nimh_so_stressed_fact_01",
+    "topic": "stress_and_anxiety",
+    "question": "What's the actual difference between stress and anxiety?",
+    "answer": "Stress is the physical or mental response to an external cause, such as having a lot of homework or having an illness, and a stressor may be a one-time or repeated occurrence. Anxiety is your body's reaction to stress and can occur even if there is no current threat.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+  },
+  {
+    "id": "nimh_so_stressed_fact_02",
+    "topic": "stress_and_anxiety",
+    "question": "What are some healthy ways to cope with feeling overwhelmed by stress?",
+    "answer": "Suggested coping activities include keeping a journal, using a relaxation or mindfulness app, exercising and eating healthy regular meals, sticking to a sleep routine, avoiding excess caffeine, identifying and challenging negative or unhelpful thoughts, and reaching out to friends or family who help you cope positively.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+  },
+  {
+    "id": "nimh_so_stressed_fact_03",
+    "topic": "stress_and_anxiety",
+    "question": "How do I know if my stress has crossed into something that needs professional help?",
+    "answer": "You may be at risk for an anxiety disorder if it feels like you can't manage the stress and the symptoms interfere with your everyday life, cause you to avoid doing things, or seem to be always present. Psychotherapy and medication are the two main treatments for anxiety, and many people benefit from a combination of the two.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+  },
+  {
+    "id": "nimh_so_stressed_fact_04",
+    "topic": "stress_and_anxiety",
+    "question": "Can ongoing anxiety actually affect my physical health?",
+    "answer": "Yes — if anxiety doesn't go away and begins to interfere with your life, it could affect your health, causing problems with sleep or with your immune, digestive, cardiovascular, and reproductive systems, and you may be at higher risk for developing a mental illness such as an anxiety disorder or depression.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet"
+  },
+  {
+    "id": "nimh_so_stressed_info_01",
+    "topic": "stress_and_anxiety_infographic",
+    "question": "According to the infographic, what symptoms can both stress and anxiety cause?",
+    "answer": "Both stress and anxiety can affect your mind and body, with symptoms such as excessive worry, uneasiness, tension, headaches or body pain, high blood pressure, and loss of sleep.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic"
+  },
+  {
+    "id": "nimh_so_stressed_info_02",
+    "topic": "stress_and_anxiety_infographic",
+    "question": "Per the infographic, is stress generally an external or internal response?",
+    "answer": "Stress is generally a response to an external cause, such as taking a big test or arguing with a friend, and it goes away once the situation is resolved; anxiety, by contrast, is generally internal, meaning it's your reaction to stress, and it is constant even if there is no immediate threat.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic"
+  },
+  {
+    "id": "nimh_so_stressed_info_03",
+    "topic": "stress_and_anxiety_infographic",
+    "question": "What quick coping strategies does the infographic suggest?",
+    "answer": "The infographic suggests keeping a journal, downloading an app with relaxation exercises, exercising and eating healthy, getting regular sleep, avoiding excess caffeine, identifying and challenging negative thoughts, and reaching out to friends and family.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-infographic"
+  },
+  {
+    "id": "nimh_lets_talk_ed_01",
+    "topic": "eating_disorders_facts",
+    "question": "Are eating disorders a lifestyle choice?",
+    "answer": "No. Several factors can increase a person's risk of developing an eating disorder, including biological, psychological, and social factors — an eating disorder is not a lifestyle choice.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders"
+  },
+  {
+    "id": "nimh_lets_talk_ed_02",
+    "topic": "eating_disorders_facts",
+    "question": "Can eating disorders be fatal?",
+    "answer": "Yes. Eating disorders often involve serious medical complications that can cause permanent damage or death, and people with eating disorders also have an increased risk of dying by suicide.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders"
+  },
+  {
+    "id": "nimh_lets_talk_ed_03",
+    "topic": "eating_disorders_facts",
+    "question": "Can you tell if someone has an eating disorder just by looking at them?",
+    "answer": "No. People with eating disorders can be underweight, average weight, or overweight, so you can't tell if someone has an eating disorder just by looking at them.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders"
+  },
+  {
+    "id": "nimh_lets_talk_ed_04",
+    "topic": "eating_disorders_facts",
+    "question": "Is recovery from an eating disorder possible?",
+    "answer": "Yes, recovery is possible with treatment and time.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/lets-talk-about-eating-disorders"
+  },
+  {
+    "id": "nimh_looking-at-my-genes_01",
+    "topic": "genetics_mental_health",
+    "question": "Can a genetic test tell me if I'm going to develop a mental disorder?",
+    "answer": "No. Currently, genetic tests cannot accurately predict your risk of developing a mental disorder. Research is still underway, and of the genes that are linked to mental disorders, most raise the risk by only tiny amounts, so it is still too early to use genetic tests to diagnose or treat mental disorders.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes"
+  },
+  {
+    "id": "nimh_looking-at-my-genes_02",
+    "topic": "genetics_mental_health",
+    "question": "What's the difference between clinical genetic testing and those direct-to-consumer DNA kits?",
+    "answer": "Clinical or diagnostic genetic testing is ordered by a health care provider to search for genes strongly linked to a specific disease and can help identify variants, diagnose disease, or guide treatment. Direct-to-consumer genetic reports, sold to anyone who mails in a saliva sample, are not accompanied by a health care provider's guidance, have varying scientific support, may not be FDA-approved, and typically cannot reliably predict a person's risk for developing mental disorders.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes"
+  },
+  {
+    "id": "nimh_looking-at-my-genes_03",
+    "topic": "genetics_mental_health",
+    "question": "How can knowing my family's mental health history actually help me?",
+    "answer": "Knowing your family's mental health history can help you and your health care provider look for early warning signs and help the provider recommend ways to reduce your risk. The most helpful information comes from first-degree relatives (parents, siblings, and children), though information from second-degree relatives can also be useful.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes"
+  },
+  {
+    "id": "nimh_looking-at-my-genes_04",
+    "topic": "genetics_mental_health",
+    "question": "If depression or anxiety runs in my family, does that mean I'll definitely develop it too?",
+    "answer": "No. Having a close relative with a mental disorder could mean you are at higher risk, but it doesn't necessarily mean you will develop that disorder, since many other factors play a role. Common mental disorders like depression and anxiety are likely the result of a combination of life experiences, environment, and genetic variation.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/looking-at-my-genes"
+  },
+  {
+    "id": "nimh_my-mental-health-do-i-need-help_01",
+    "topic": "do_i_need_help",
+    "question": "I've been feeling sad and low-energy for a few days but I can still function—is that a problem?",
+    "answer": "If you've had mild symptoms like feeling sad, stressed, or worried, feeling tired, or having some trouble sleeping for less than 2 weeks while still being able to care for yourself and others, activities like regular exercise, healthy eating, 7–9 hours of sleep, spending time with loved ones, and low-stress activities you enjoy may help you feel better. If these activities don't help or your symptoms worsen, talk to a health care provider.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help"
+  },
+  {
+    "id": "nimh_my-mental-health-do-i-need-help_02",
+    "topic": "do_i_need_help",
+    "question": "What symptoms suggest I should seek professional help rather than just try to cope on my own?",
+    "answer": "You should consider seeking professional help if you've had severe symptoms for 2 weeks or more, such as feeling sad, tearful, or hopeless; feeling worthless or guilty; losing interest in things you typically enjoy; difficulty concentrating or making decisions; trouble completing tasks; or changes in appetite, weight, sleep, or sex drive. Common treatment options include therapy and medication.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help"
+  },
+  {
+    "id": "nimh_my-mental-health-do-i-need-help_03",
+    "topic": "do_i_need_help",
+    "question": "What should I do if I'm having thoughts of suicide or urges to hurt myself?",
+    "answer": "Call or text the 988 Suicide and Crisis Lifeline at 988 or chat at 988lifeline.org. The Lifeline provides 24-hour, confidential support. Call 911 in life-threatening situations.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help"
+  },
+  {
+    "id": "nimh_obsessive-compulsive-disorder_01",
+    "topic": "ocd",
+    "question": "What's the actual difference between an obsession and a compulsion in OCD?",
+    "answer": "Obsessions are repeated thoughts, urges, or mental images that are intrusive, unwanted, and make most people anxious, such as fear of germs or a desire for symmetry. Compulsions are repetitive behaviors a person feels the urge to do, often in response to an obsession, such as excessive handwashing, checking, or counting.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over"
+  },
+  {
+    "id": "nimh_obsessive-compulsive-disorder_02",
+    "topic": "ocd",
+    "question": "How do I know if my habits are just quirks or actually OCD?",
+    "answer": "People with OCD generally can't control their obsessions or compulsions even when they know they're excessive, spend more than 1 hour a day on them, don't get pleasure from their compulsions (though they may feel temporary relief from anxiety), and experience significant problems in daily life because of these thoughts or behaviors.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over"
+  },
+  {
+    "id": "nimh_obsessive-compulsive-disorder_03",
+    "topic": "ocd",
+    "question": "What treatments actually work for OCD?",
+    "answer": "Mental health professionals treat OCD with medications, psychotherapy, or a combination. Cognitive behavioral therapy (CBT), especially a specific form called exposure and response prevention therapy (ERP), effectively reduces compulsive behaviors. The most common medications are antidepressants that target serotonin, particularly selective serotonin reuptake inhibitors, which can take 8–12 weeks to start improving symptoms.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over"
+  },
+  {
+    "id": "nimh_obsessive-compulsive-disorder_04",
+    "topic": "ocd",
+    "question": "What increases someone's risk of developing OCD?",
+    "answer": "Risk factors for OCD include genetics (having a first-degree relative with OCD is associated with increased risk), differences in the frontal cortex and subcortical brain structures, a temperament involving reserved behaviors and negative emotions in childhood, and possibly childhood trauma, though the exact causes remain unknown.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over"
+  },
+  {
+    "id": "nimh_panic-disorder_01",
+    "topic": "panic_disorder",
+    "question": "Is having a panic attack the same thing as having panic disorder?",
+    "answer": "No. A panic attack is a one-time or occasional episode of intense fear with physical and emotional symptoms, and an isolated panic attack is not a mental disorder. Panic disorder may be diagnosed when a person experiences recurrent and unexpected panic attacks along with ongoing worry or behavioral changes due to fear of future attacks that interfere with daily life.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+  },
+  {
+    "id": "nimh_panic-disorder_02",
+    "topic": "panic_disorder",
+    "question": "What does a panic attack physically feel like?",
+    "answer": "Physical symptoms during a panic attack may include a pounding or racing heart, sweating, chills, trembling, difficulty breathing, weakness or dizziness, tingly or numb hands, chest pain, and stomach pain or nausea. A panic attack can last from a few minutes to an hour or longer, and while distressing, panic attacks themselves are not life-threatening.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+  },
+  {
+    "id": "nimh_panic-disorder_03",
+    "topic": "panic_disorder",
+    "question": "How is panic disorder officially diagnosed?",
+    "answer": "To be diagnosed with panic disorder, a person must experience recurrent, unexpected panic attacks and spend at least 1 month worrying about having more panic attacks, feeling scared about what the attacks mean, or changing their behavior to try to avoid future attacks.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+  },
+  {
+    "id": "nimh_panic-disorder_04",
+    "topic": "panic_disorder",
+    "question": "What treatments are used for panic disorder?",
+    "answer": "Treatment for panic disorder typically involves psychotherapy, medication, or both. Cognitive behavioral therapy (CBT), including exposure therapy, is commonly used. Medications may include antidepressants such as SSRIs and SNRIs, beta-blockers, and anti-anxiety medications like benzodiazepines, though benzodiazepines are often prescribed only for brief periods due to risk of tolerance and dependence.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/panic-disorder-when-fear-overwhelms"
+  },
+  {
+    "id": "nimh_pandas_01",
+    "topic": "pans_pandas",
+    "question": "What's the difference between PANS and PANDAS?",
+    "answer": "PANS (Pediatric Acute-onset Neuropsychiatric Syndrome) may be triggered by various infections, immune system issues, or environmental factors. PANDAS is a subtype of PANS that is specifically associated with an infection from streptococcal (strep) bacteria, such as strep throat or scarlet fever.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/pandas"
+  },
+  {
+    "id": "nimh_pandas_02",
+    "topic": "pans_pandas",
+    "question": "My child has had strep before and now has tics or OCD—does that mean it's PANDAS?",
+    "answer": "Not necessarily. Many children have OCD, tics, or both, and it's common for grade-school students to have two or three strep infections each year. For a child to have PANDAS, there needs to be a sudden onset or worsening of OCD, tics, or both, and a strep infection around the same time.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/pandas"
+  },
+  {
+    "id": "nimh_pandas_03",
+    "topic": "pans_pandas",
+    "question": "How do PANS/PANDAS symptoms differ from typical childhood OCD?",
+    "answer": "Many children with typical OCD or tics develop symptoms gradually over weeks, months, or years. In contrast, children with PANS or PANDAS have a very sudden onset or worsening of symptoms, usually reaching full intensity within a few days, followed by a slow, gradual improvement.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/pandas"
+  },
+  {
+    "id": "nimh_pandas_04",
+    "topic": "pans_pandas",
+    "question": "How is PANDAS treated?",
+    "answer": "The best treatment for sudden episodes of PANDAS is treating the underlying strep infection with antibiotics. Children with PANS or PANDAS may also benefit from cognitive behavioral therapy, selective serotonin reuptake inhibitor (SSRI) medication, or both to help manage OCD, anxiety, tics, or eating issues.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/pandas"
+  },
+  {
+    "id": "nimh_pandas_05",
+    "topic": "pans_pandas",
+    "question": "Can adults get PANS or PANDAS?",
+    "answer": "PANS and PANDAS typically first appear in childhood, from age 3 to puberty. It's unlikely, though possible, that an adult could develop one of these conditions, and while adolescents and adults could develop a similar immune-related form of OCD, this possibility has not been thoroughly studied.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/pandas"
+  },
+  {
+    "id": "nimh_perinatal-depression_01",
+    "topic": "perinatal_depression",
+    "question": "How is postpartum depression different from the 'baby blues'?",
+    "answer": "'Baby blues' describes mild, short-lasting mood changes and feelings of worry, unhappiness, and exhaustion that many women experience in the first 2 weeks after giving birth. Mood changes or feelings of anxiety or unhappiness that are severe or last longer than 2 weeks after childbirth may be signs of postpartum depression, and women with postpartum depression generally will not feel better without treatment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/perinatal-depression"
+  },
+  {
+    "id": "nimh_perinatal-depression_02",
+    "topic": "perinatal_depression",
+    "question": "What is postpartum psychosis and how is it different from perinatal depression?",
+    "answer": "Postpartum psychosis is a serious mental illness that can occur after childbirth, involving delusions, hallucinations, mania, paranoia, and confusion. Unlike perinatal depression, postpartum psychosis is a psychiatric emergency that requires hospitalization, and women experiencing its symptoms should seek immediate help by calling 911 or going to the nearest emergency room.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/perinatal-depression"
+  },
+  {
+    "id": "nimh_perinatal-depression_03",
+    "topic": "perinatal_depression",
+    "question": "Did I cause my own perinatal depression somehow?",
+    "answer": "No. Perinatal depression is a medical condition that can affect any pregnant or postpartum woman regardless of age, race, ethnicity, income, culture, or education. A woman is not to blame or at fault for having perinatal depression—it is not caused by anything she has or has not done.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/perinatal-depression"
+  },
+  {
+    "id": "nimh_perinatal-depression_04",
+    "topic": "perinatal_depression",
+    "question": "Is there a specific hotline for mothers struggling with their mental health?",
+    "answer": "Yes. The National Maternal Mental Health Hotline offers free, confidential mental health support for mothers and their families before, during, and after pregnancy. You can call or text 1-833-9-TLC-MAMA (1-833-852-6262) to connect with counselors 24 hours a day, 7 days a week, with English- and Spanish-speaking counselors available.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/perinatal-depression"
+  },
+  {
+    "id": "nimh_phobias_01",
+    "topic": "phobias",
+    "question": "What exactly counts as a phobia versus normal fear?",
+    "answer": "A phobia is an intense fear of, or aversion to, a specific object or situation. While anxiety is natural under some circumstances, people with phobias feel fear that is out of proportion to the actual danger presented by the situation or object, and they may take active steps to avoid it or endure it with intense anxiety.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders"
+  },
+  {
+    "id": "nimh_phobias_02",
+    "topic": "phobias",
+    "question": "What is agoraphobia?",
+    "answer": "People with agoraphobia have an intense fear of two or more situations, such as using public transportation, being in open or enclosed spaces, standing in line or being in a crowd, or being outside of the home alone. They often avoid these situations because they think escape might be difficult if they have panic-like reactions, and in the most severe form, a person can become housebound.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders"
+  },
+  {
+    "id": "nimh_phobias_03",
+    "topic": "phobias",
+    "question": "What's the main treatment approach for phobias?",
+    "answer": "Psychotherapy is the primary treatment approach for phobias, particularly cognitive behavioral therapy (CBT) and its exposure therapy method, which focuses on confronting the fears underlying a phobia. Medications like anti-anxiety medications and beta-blockers may help in specific circumstances, and acceptance and commitment therapy (ACT) is another, newer option.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders"
+  },
+  {
+    "id": "nimh_phobias_04",
+    "topic": "phobias",
+    "question": "What causes someone to develop a phobia?",
+    "answer": "Research shows that genetic and environmental factors play a role in developing a specific phobia. Risk factors include exposure to a traumatic event involving a specific object or situation, feeling distressed or nervous in new situations during childhood, and a history of anxiety or other mental disorders in biological relatives.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/phobias-and-phobia-related-disorders"
+  },
+  {
+    "id": "nimh_ptsd_01",
+    "topic": "ptsd",
+    "question": "Do you have to be in danger yourself to develop PTSD?",
+    "answer": "No. Not everyone with PTSD has been through a dangerous event themselves—sometimes, learning that a relative or close friend experienced trauma can cause PTSD. Anyone can develop PTSD at any age, including combat veterans and people who have experienced or witnessed a physical or sexual assault, abuse, an accident, a disaster, or a terror attack.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd"
+  },
+  {
+    "id": "nimh_ptsd_02",
+    "topic": "ptsd",
+    "question": "What symptoms does someone need to have to be diagnosed with PTSD?",
+    "answer": "To be diagnosed with PTSD, an adult must have all of the following for at least 1 month: at least one re-experiencing symptom (like flashbacks), at least one avoidance symptom, at least two arousal and reactivity symptoms (like being easily startled), and at least two cognition and mood symptoms (like negative thoughts about oneself).",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd"
+  },
+  {
+    "id": "nimh_ptsd_03",
+    "topic": "ptsd",
+    "question": "How common is PTSD, and are women or men more likely to develop it?",
+    "answer": "About 6 of every 100 people will experience PTSD at some point in their lifetime, according to the National Center for PTSD, a U.S. Department of Veterans Affairs program. Women are more likely than men to develop PTSD.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd"
+  },
+  {
+    "id": "nimh_ptsd_04",
+    "topic": "ptsd",
+    "question": "What factors make someone more resilient against developing PTSD after trauma?",
+    "answer": "Resilience factors that may reduce the likelihood of developing PTSD include seeking out and receiving support from friends, family, or support groups; learning to feel okay with one's actions in response to a traumatic event; having a coping strategy for getting through and learning from the event; and being prepared and able to respond to upsetting events despite feeling fear.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/post-traumatic-stress-disorder-ptsd"
+  },
+  {
+    "id": "nimh_schizophrenia_01",
+    "topic": "schizophrenia",
+    "question": "What are the three main categories of schizophrenia symptoms?",
+    "answer": "Schizophrenia symptoms generally fall into three main categories: psychotic symptoms (such as hallucinations, delusions, and thought disorder), negative symptoms (such as loss of motivation and social withdrawal), and cognitive symptoms (such as problems with attention, concentration, and memory).",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/schizophrenia"
+  },
+  {
+    "id": "nimh_schizophrenia_02",
+    "topic": "schizophrenia",
+    "question": "Are people with schizophrenia generally violent?",
+    "answer": "Most people with schizophrenia are not violent. Overall, people with schizophrenia are more likely than those without the illness to be harmed by others. The risk of self-harm and violence to others is most significant when the illness is untreated or co-occurs with alcohol or substance misuse.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/schizophrenia"
+  },
+  {
+    "id": "nimh_schizophrenia_03",
+    "topic": "schizophrenia",
+    "question": "Is schizophrenia the same thing as having multiple personalities?",
+    "answer": "No. Although some symptoms may seem similar on the surface, schizophrenia is not dissociative identity disorder (previously called multiple personality disorder or split personality). People with dissociative identity disorder have two or more independent identities with distinct behaviors and memories.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/schizophrenia"
+  },
+  {
+    "id": "nimh_schizophrenia_04",
+    "topic": "schizophrenia",
+    "question": "What is coordinated specialty care for schizophrenia?",
+    "answer": "Coordinated specialty care (CSC) programs are recovery-focused programs for people with first episode psychosis, an early stage of schizophrenia. Health professionals and specialists work together as a team to provide psychotherapy, medication, case management, employment and education services, and family education and support, and CSC is more effective than typical care at reducing symptoms and improving quality of life.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/schizophrenia"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder_01",
+    "topic": "seasonal_affective_disorder",
+    "question": "What's the difference between winter-pattern and summer-pattern SAD?",
+    "answer": "Winter-pattern SAD symptoms typically start in late fall or early winter and go away in spring and summer, with additional symptoms like oversleeping, overeating with carbohydrate cravings, and social withdrawal. Summer-pattern SAD, which is less common, involves depressive symptoms during spring and summer, with symptoms like insomnia, poor appetite, restlessness, and agitation.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder_02",
+    "topic": "seasonal_affective_disorder",
+    "question": "Why does SAD happen more often to people living farther north?",
+    "answer": "SAD is more common in people living farther north, where there are shorter daylight hours in winter—for example, people in Alaska or New England are more likely to develop SAD than people in Texas or Florida. Studies indicate that reduced sunlight lowers levels of the brain chemical serotonin, which helps regulate mood, and can lower vitamin D levels that also support serotonin activity.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder_03",
+    "topic": "seasonal_affective_disorder",
+    "question": "How does light therapy work for SAD?",
+    "answer": "For light therapy, a person sits in front of a very bright light box (10,000 lux)—about 20 times brighter than ordinary indoor light—every day for about 30-45 minutes, usually first thing in the morning, from fall to spring. The light box filters out potentially damaging UV light, making it a safe treatment for most people, though those with certain eye diseases or on light-sensitizing medications may need medical supervision.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder_04",
+    "topic": "seasonal_affective_disorder",
+    "question": "How is SAD officially diagnosed, and how is it different from just having the 'holiday blues'?",
+    "answer": "To be diagnosed with SAD, a person's depressive episodes must occur during specific seasons for at least 2 consecutive years and be more frequent than depressive episodes at other times of year. SAD should not be confused with 'holiday blues,' since SAD depression is related to changes in daylight hours, not the calendar, so stresses tied to holidays or seasonal schedule changes are not the same as SAD.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder-winter-blues_01",
+    "topic": "seasonal_affective_disorder_winter_blues",
+    "question": "How can I tell if it's just the winter blues or something I should get help for?",
+    "answer": "The first step is to determine how much your symptoms interfere with your daily life. Mild symptoms lasting less than 2 weeks—like feeling down but still able to take care of yourself, some trouble sleeping, or less energy but still able to do your job or schoolwork—may improve with activities like doing something you enjoy, going outside in sunlight, spending time with family and friends, and eating healthy.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder-winter-blues_02",
+    "topic": "seasonal_affective_disorder_winter_blues",
+    "question": "What are signs that my seasonal mood changes are more severe and need professional attention?",
+    "answer": "More severe symptoms lasting more than 2 weeks include social withdrawal, oversleeping, gaining weight, and craving foods with lots of sugar like cakes, candies, and cookies. If you have these symptoms, it's time to seek professional help.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues"
+  },
+  {
+    "id": "nimh_seasonal-affective-disorder-winter-blues_03",
+    "topic": "seasonal_affective_disorder_winter_blues",
+    "question": "What kinds of professional treatments are available for seasonal affective disorder?",
+    "answer": "Professional treatment options for SAD include light therapy, psychotherapy (talk therapy), medications, and vitamin D supplements. For help finding treatment, you can visit NIMH's Help for Mental Illnesses webpage.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues"
+  },
+  {
+    "id": "nimh_social_anxiety_disorder_more_than_just_shyness_01",
+    "topic": "social_anxiety_disorder",
+    "question": "What is social anxiety disorder?",
+    "answer": "Social anxiety disorder is a common type of anxiety disorder. A person with it feels symptoms of anxiety or fear in situations where they may be scrutinized, evaluated, or judged by others, such as speaking in public, meeting new people, dating, being on a job interview, or answering a question in class. The fear often feels uncontrollable and can interfere with daily life. It usually starts during childhood or adolescence and may resemble extreme shyness. With the right treatment and support, people with social anxiety disorder can manage their anxiety and improve their quality of life.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness"
+  },
+  {
+    "id": "nimh_social_anxiety_disorder_more_than_just_shyness_02",
+    "topic": "social_anxiety_disorder",
+    "question": "What are the signs and symptoms of social anxiety disorder?",
+    "answer": "When performing in front of or being around others, people with social anxiety disorder may blush, sweat, or tremble; have a rapid heart rate; feel their mind going blank or feel sick to their stomach; have a rigid body posture or speak with an overly soft voice; find it difficult to make eye contact or talk to people; fear being judged negatively; avoid places or situations involving other people; analyze their performance and identify self-perceived flaws; and expect the worst possible consequences from a negative social situation. Children and teens may also try to avoid going to school, have difficulty making friends, complain of stomachaches or headaches, have emotional outbursts, or refuse to speak or participate in social situations.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness"
+  },
+  {
+    "id": "nimh_social_anxiety_disorder_more_than_just_shyness_03",
+    "topic": "social_anxiety_disorder",
+    "question": "How is social anxiety disorder diagnosed?",
+    "answer": "To be diagnosed, a person must have strong fear or anxiety about social situations where they might be judged or scrutinized by others. They may try to avoid these situations or face them with extreme discomfort. These feelings must last at least 6 months and interfere with daily life, such as work, school, or relationships. A person who suspects they have it can talk to a health care provider such as a primary care doctor, psychiatrist, psychologist, or clinical social worker. The provider may ask when symptoms began, how long they have lasted, how often they occur, and how they affect the person's life, and may conduct a physical exam to make sure an unrelated physical problem is not causing the symptoms.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness"
+  },
+  {
+    "id": "nimh_social_anxiety_disorder_more_than_just_shyness_04",
+    "topic": "social_anxiety_disorder",
+    "question": "How is social anxiety disorder treated?",
+    "answer": "Treatment typically involves psychotherapy, medication, or both, based on a person's needs, preferences, and medical situation. Finding the best treatment may take trial and error, and both psychotherapy and medication can take some time to work. Cognitive behavioral therapy (CBT) is commonly used and is considered the gold standard choice for psychotherapy. It teaches different ways of thinking, behaving, and reacting to situations and can help a person learn and practice social skills. Exposure therapy, a CBT method, involves progressively confronting the fears underlying an anxiety disorder. Acceptance and commitment therapy (ACT) is another option. Medications that can be effective include SSRI and SNRI antidepressants, beta-blockers, and benzodiazepines. Support groups and healthy habits like enough sleep, exercise, and a healthy diet can also help, but healthy habits alone cannot replace treatment.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness"
+  },
+  {
+    "id": "nimh_social_anxiety_disorder_more_than_just_shyness_05",
+    "topic": "social_anxiety_disorder",
+    "question": "What causes social anxiety disorder, and can other conditions occur with it?",
+    "answer": "Social anxiety disorder may run in families, but no one knows for sure why some family members have it while others don't. Researchers have found that several parts of the brain are involved in fear and anxiety, and genetics influences how these brain areas function. Researchers are also looking at the role of stress and environmental factors. Some people with social anxiety disorder also have other conditions, including depression, other anxiety disorders, obsessive-compulsive disorder, ADHD, body dysmorphic disorder, or bipolar disorder. It is also commonly associated with alcohol and substance misuse.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/social-anxiety-disorder-more-than-just-shyness"
+  },
+  {
+    "id": "nimh_stand_up_to_stress_01",
+    "topic": "stress_management_children",
+    "question": "What is stress, and can it ever be a good thing?",
+    "answer": "Stress is how the brain and body respond to any type of challenge, such as a test in school or a difficult talk with a friend. Stress can lead to good or bad things. For example, it might help you meet an important deadline, or it might make it harder to get a good night's sleep. Everyone experiences stress from time to time, and that is okay, but too much stress over a long time can be bad for your health.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress"
+  },
+  {
+    "id": "nimh_stand_up_to_stress_02",
+    "topic": "stress_management_children",
+    "question": "How can sleep and exercise help kids handle stress?",
+    "answer": "Sleep can affect how well you think, react, work, learn, and get along with others. A healthy bedtime routine can help: go to bed and wake up at the same time each day, and turn off your phone, tablet, or laptop before bed. Getting 30 minutes of exercise each day helps your body and brain stay healthy and strong, and even 5-10 minutes of being active can help you feel better and reduce stress.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress"
+  },
+  {
+    "id": "nimh_stand_up_to_stress_03",
+    "topic": "stress_management_children",
+    "question": "Who can a kid talk to when feeling overwhelmed by stress?",
+    "answer": "Talking to your friends and family, in person, on the phone, or online, can make you feel happier and healthier. You can also talk to a trusted adult, like a parent or teacher, if you start to feel overwhelmed. Talking about your feelings can remind you that you're not alone and help you feel better.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress"
+  },
+  {
+    "id": "nimh_stand_up_to_stress_04",
+    "topic": "stress_management_children",
+    "question": "What is mindfulness, and what is the tense and relax activity?",
+    "answer": "Mindfulness is like giving your brain a little break to focus on what's happening right now, such as paying attention to your breathing, feeling the warmth of the sun on your skin, or listening carefully to the sounds in nature. Paying attention to positive feelings and thinking about the good things in your life can help develop a positive mindset, which helps reduce stress. In the tense and relax activity, you tense different parts of your body (feet, stomach, hands, shoulders, face), then relax them and take a deep breath in and out. Because the body and mind are connected, relaxing tight muscles can help you feel calmer.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/stand-up-to-stress"
+  },
+  {
+    "id": "nimh_teen_depression_01",
+    "topic": "teen_depression",
+    "question": "How do I know if I might have depression as a teenager?",
+    "answer": "Signs to look for include often feeling sad, anxious, worthless, or empty; losing interest in activities you used to enjoy; getting easily frustrated, irritable, or angry; withdrawing from friends and family; dropping grades; changes in eating or sleeping habits; fatigue or memory loss; and thoughts about suicide or harming yourself. Depression looks different for everyone. You might have many of these symptoms or just a few.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/teen-depression"
+  },
+  {
+    "id": "nimh_teen_depression_02",
+    "topic": "teen_depression",
+    "question": "When should a teen talk to someone about feeling sad?",
+    "answer": "If you have been feeling sad most of the time for a few weeks or longer and you're not able to concentrate or do the things you used to enjoy, talk to a trusted adult about depression. Being a teenager can be tough, but it shouldn't feel hopeless.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/teen-depression"
+  },
+  {
+    "id": "nimh_teen_depression_03",
+    "topic": "teen_depression",
+    "question": "How do I get help for depression?",
+    "answer": "Talk to a trusted adult such as a parent or guardian, teacher, or school counselor about how you've been feeling. Ask your doctor about options for professional help. Depression can be treated with psychotherapy (talk therapy), medication, or a combination of both. It can also help to spend time with friends or family even if you don't feel like it, stay active, keep a regular sleep schedule, and eat healthy foods. You're not alone, and help is available.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/teen-depression"
+  },
+  {
+    "id": "nimh_teen_depression_04",
+    "topic": "teen_depression",
+    "question": "What should I do if I am having thoughts of suicide or self-harm?",
+    "answer": "Call or text the 988 Suicide & Crisis Lifeline at 988, or chat at 988lifeline.org. You can also talk to a trusted adult, such as a parent or guardian, teacher, or school counselor, about how you've been feeling. You're not alone, and help is available.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/teen-depression"
+  },
+  {
+    "id": "nimh_the_teen_brain_7_things_to_know_01",
+    "topic": "teen_brain_development",
+    "question": "Is the teenage brain fully developed?",
+    "answer": "Although the brain stops growing in size by early adolescence, the teen years are about fine-tuning how the brain works. The brain finishes developing and maturing in the mid-to-late 20s. The prefrontal cortex, the part of the brain behind the forehead, is one of the last parts to mature. It is responsible for skills like planning, prioritizing, and making good decisions.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  {
+    "id": "nimh_the_teen_brain_7_things_to_know_02",
+    "topic": "teen_brain_development",
+    "question": "Why do teens take more risks and care so much about their friends?",
+    "answer": "Changes to the areas of the brain responsible for social processes can lead teens to focus more on peer relationships and social experiences. Together with ongoing prefrontal cortex development, this might lead teens to take more risks because the social benefits outweigh the possible consequences. These risks could be negative or dangerous, or positive, such as talking to a new classmate or joining a new club or sport.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  {
+    "id": "nimh_the_teen_brain_7_things_to_know_03",
+    "topic": "teen_brain_development",
+    "question": "Why do teenagers stay up late and struggle to wake up early?",
+    "answer": "The sleep hormone melatonin works differently in teens than in children and adults. In adolescence, melatonin levels stay high later at night and drop later in the morning, which may explain why teens stay up late and struggle with waking up early. Many teens do not get enough sleep, making it harder to pay attention, control impulses, and do well at school. Good sleep at night can help support mental health.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  {
+    "id": "nimh_the_teen_brain_7_things_to_know_04",
+    "topic": "teen_brain_development",
+    "question": "Why do mental health problems often start during the teen years?",
+    "answer": "Ongoing changes in the brain, along with physical, emotional, and social changes, can make teens more likely to experience mental health problems. Because all these changes happen at one time, many mental illnesses, such as schizophrenia, anxiety, depression, bipolar disorder, and eating disorders, emerge during adolescence. Teens may also respond to stress differently than adults, which could increase their chances of developing stress-related mental illnesses such as anxiety and depression.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  {
+    "id": "nimh_the_teen_brain_7_things_to_know_05",
+    "topic": "teen_brain_development",
+    "question": "Can the teen brain adapt and recover from challenges?",
+    "answer": "Yes. The teen brain has an amazing ability to adapt and respond to new experiences and situations. Taking challenging classes, exercising, and engaging in creative activities like art or music can strengthen brain circuits and help the brain mature. Despite the stresses of adolescence, most teens go on to become healthy adults, and some changes in the brain during this phase actually help support resilience and mental health over the long term.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know"
+  },
+  {
+    "id": "nimh_tips_for_talking_with_your_health_care_provider_01",
+    "topic": "talking_with_health_care_provider",
+    "question": "Who should I talk to first if I'm worried about my mental health?",
+    "answer": "If you don't know where to start, consider bringing up your mental health concerns during an appointment with a primary care provider (PCP). A PCP is a health care practitioner people see for common medical problems, and may be a doctor, physician assistant, or nurse practitioner. Even if your PCP doesn't ask first, you can start the conversation, and they can help refer you to a mental health professional.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider"
+  },
+  {
+    "id": "nimh_tips_for_talking_with_your_health_care_provider_02",
+    "topic": "talking_with_health_care_provider",
+    "question": "How can I prepare for an appointment about my mental health?",
+    "answer": "Health care providers have limited time for each appointment, so prepare ahead. Make a list of what you want to discuss and any questions or concerns. Prepare a list of all your medications, including over-the-counter drugs, herbal remedies, vitamins, and supplements. Review your family history, since certain mental illnesses tend to run in families and knowing your family mental health history can help determine your risk for certain disorders.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider"
+  },
+  {
+    "id": "nimh_tips_for_talking_with_your_health_care_provider_03",
+    "topic": "talking_with_health_care_provider",
+    "question": "Should I bring someone with me to a mental health appointment?",
+    "answer": "Consider it. It can be difficult to absorb all the information your provider shares, especially if you are not feeling well. A close friend or relative can offer support, help you take notes, remember what was discussed, and give the provider input on how they think you are doing. Some people like having someone there throughout, while others prefer to meet alone with the provider first and then have a trusted friend or relative join when treatment recommendations are discussed.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider"
+  },
+  {
+    "id": "nimh_tips_for_talking_with_your_health_care_provider_04",
+    "topic": "talking_with_health_care_provider",
+    "question": "Is what I tell my doctor about my mental health private, and how honest should I be?",
+    "answer": "A health care provider can help you get better only if you have open and honest communication. Discussions between you and a health care provider are private and cannot be shared with anyone without your expressed permission. Describe all your symptoms and be specific about when they started, how severe they are, and how often they occur. Also share any major stressors or recent life changes that could be triggering or worsening your symptoms.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider"
+  },
+  {
+    "id": "nimh_tips_for_talking_with_your_health_care_provider_05",
+    "topic": "talking_with_health_care_provider",
+    "question": "What if I'm not comfortable with the treatment my provider suggests?",
+    "answer": "Ask the provider for more information about the diagnosis or treatment. If a provider suggests a treatment option you're not comfortable or familiar with, express your concerns and ask if there are other options. You may want to try a combination of treatment approaches or get another opinion from a different provider. There is no one-size-fits-all treatment, so you may need to talk to a few providers to find someone you are comfortable with and try several different treatments or a combination.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/tips-for-talking-with-your-health-care-provider"
+  },
+  {
+    "id": "nimh_understanding_psychosis_01",
+    "topic": "psychosis",
+    "question": "What is psychosis?",
+    "answer": "Psychosis refers to a collection of symptoms that affect the mind, where there has been some loss of contact with reality. During an episode of psychosis, a person's thoughts and perceptions are disrupted and they may have difficulty recognizing what is real and what is not. Psychosis often begins in young adulthood, in the late teens to mid-20s, but people can experience it at younger and older ages and as part of many disorders and illnesses.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis"
+  },
+  {
+    "id": "nimh_understanding_psychosis_02",
+    "topic": "psychosis",
+    "question": "What are the signs and symptoms of psychosis?",
+    "answer": "People with psychosis typically experience delusions (false beliefs, such as that people on television are sending them special messages or that others are trying to hurt them) and hallucinations (seeing or hearing things that others do not, such as hearing voices). Other symptoms can include incoherent or nonsense speech and behavior that is inappropriate for the situation. Behavioral warning signs before psychosis develops include suspiciousness or paranoid ideas, trouble thinking clearly, social withdrawal, unusual or overly intense ideas or a lack of feelings, decline in self-care or hygiene, disrupted sleep, difficulty telling reality from fantasy, confused speech, and a sudden drop in grades or job performance.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis"
+  },
+  {
+    "id": "nimh_understanding_psychosis_03",
+    "topic": "psychosis",
+    "question": "What causes psychosis?",
+    "answer": "There is no one cause of psychosis. It appears to result from a complex combination of genetic risk, differences in brain development, and exposure to stressors or trauma. Psychosis may be a symptom of a mental illness such as schizophrenia, bipolar disorder, or severe depression, but a person can experience psychosis and never be diagnosed with any disorder. Other possible causes include sleep deprivation, certain prescription medications, misuse of alcohol or drugs, and, in older adults, diseases such as Parkinson's disease, Alzheimer's disease, and related dementias.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis"
+  },
+  {
+    "id": "nimh_understanding_psychosis_04",
+    "topic": "psychosis",
+    "question": "How is psychosis treated?",
+    "answer": "Treatment usually includes antipsychotic medication. There are several types with different side effects, so it is important to work with a health care provider to find the one that is most effective with the fewest side effects. Treatment also often includes coordinated specialty care, a multi-element, recovery-oriented team approach that promotes easy access to care and shared decision-making among specialists, the person experiencing psychosis, and family members. Reducing the duration of untreated psychosis is critical because early treatment often means better recovery.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis"
+  },
+  {
+    "id": "nimh_understanding_psychosis_05",
+    "topic": "psychosis",
+    "question": "Can a person recover from psychosis?",
+    "answer": "Yes. With early diagnosis and appropriate treatment, it is possible to recover from psychosis. Some people who receive early treatment never have another psychotic episode. For others, recovery means being able to lead a fulfilling and productive life, even if psychotic symptoms sometimes return. The risk of violence and suicide decreases with treatment for psychosis, so it is important to seek help.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis"
+  },
+  {
+    "id": "nimh_chronic_illness_mental_health_01",
+    "topic": "chronic_disease_and_depression",
+    "question": "What counts as a chronic disease?",
+    "answer": "A chronic disease is a condition that lasts at least one year and requires ongoing medical attention, limits activities of daily living, or both. Examples include autoimmune diseases, diabetes, cancer, epilepsy, heart disease, HIV/AIDS, hypothyroidism, multiple sclerosis, and pain.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health"
+  },
+  {
+    "id": "nimh_chronic_illness_mental_health_02",
+    "topic": "chronic_disease_and_depression",
+    "question": "Can having a chronic illness make me depressed?",
+    "answer": "People who have a chronic disease are at a higher risk of developing depression. It can be triggered by anxiety, stress, or other challenges caused by the disease; brain changes from a chronic disease (such as Parkinson's disease or stroke); medication used to treat it; or a personal or family history of depression or suicide. Research suggests that people who have both a chronic disease and depression tend to have more severe symptoms of both illnesses.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health"
+  },
+  {
+    "id": "nimh_chronic_illness_mental_health_03",
+    "topic": "chronic_disease_and_depression",
+    "question": "Can depression cause physical health problems?",
+    "answer": "People who have depression are at higher risk of developing certain chronic diseases, including heart disease, diabetes, stroke, pain, osteoporosis, and Alzheimer's disease. This may be due to challenges completing tasks that are good for health, such as eating well and exercising, because of symptoms like fatigue; challenges accessing medical care that could help prevent or detect physical health issues early; and changes in how the body functions due to depression, such as increased inflammation, reduced blood circulation and heart rate control, and abnormalities in stress hormones.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health"
+  },
+  {
+    "id": "nimh_chronic_illness_mental_health_04",
+    "topic": "chronic_disease_and_depression",
+    "question": "What are the signs and symptoms of depression?",
+    "answer": "Common signs include a persistent sad, anxious, or empty mood; feelings of hopelessness or pessimism; irritability, frustration, or restlessness; feelings of guilt, worthlessness, or helplessness; loss of interest or pleasure in hobbies and activities; fatigue or feeling slowed down; difficulty concentrating, remembering, or making decisions; difficulty sleeping, waking too early, or oversleeping; changes in appetite or unplanned weight changes; physical aches, pains, headaches, cramps, or digestive problems without a clear physical cause; and thoughts of death or suicide or suicide attempts. Not everyone experiences all of these symptoms.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health"
+  },
+  {
+    "id": "nimh_chronic_illness_mental_health_05",
+    "topic": "chronic_disease_and_depression",
+    "question": "Can depression be treated if I already have a chronic illness?",
+    "answer": "Yes. Depression is treatable even if you have a chronic disease. Treatment typically involves psychotherapy (in person or virtual), medication, or both. A health care provider can help choose a plan based on your needs, preferences, and existing medical conditions, so tell them about the medications and treatments you already use to avoid interference between medications. If you cannot or do not wish to take antidepressants, other evidence-based options include psychotherapy, brain stimulation therapy, and light therapy. A collaborative care approach, where primary care providers, care managers, and psychiatric consultants work together, can improve overall health, though it is not yet available everywhere.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health"
+  },
+  {
+    "id": "nimh_warning_signs_of_suicide_01",
+    "topic": "suicide_prevention",
+    "question": "What might someone say if they are thinking about suicide?",
+    "answer": "Warning signs in what a person talks about include wanting to die, great guilt or shame, and being a burden to others.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide"
+  },
+  {
+    "id": "nimh_warning_signs_of_suicide_02",
+    "topic": "suicide_prevention",
+    "question": "What feelings can be warning signs of suicide?",
+    "answer": "Feelings that may be warning signs include feeling empty, hopeless, trapped, or having no reason to live; feeling extremely sad, more anxious, agitated, or full of rage; and experiencing unbearable emotional or physical pain.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide"
+  },
+  {
+    "id": "nimh_warning_signs_of_suicide_03",
+    "topic": "suicide_prevention",
+    "question": "What behavior changes can be warning signs that someone is thinking about suicide?",
+    "answer": "Behavior changes that may be warning signs include making a plan or researching ways to die; withdrawing from friends, saying goodbye, giving away important items, or making a will; taking dangerous risks such as driving extremely fast; displaying extreme mood swings; eating or sleeping more or less; and using drugs or alcohol more often.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide"
+  },
+  {
+    "id": "nimh_warning_signs_of_suicide_04",
+    "topic": "suicide_prevention",
+    "question": "What should I do if these warning signs apply to me or someone I know?",
+    "answer": "Get help as soon as possible, particularly if the behavior is new or has increased recently. You can call or text the 988 Suicide & Crisis Lifeline at 988, or chat at 988lifeline.org.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/warning-signs-of-suicide"
+  },
+  {
+    "id": "nimh_what_are_common_types_of_eating_disorders_01",
+    "topic": "eating_disorders",
+    "question": "What are eating disorders and what are the common types?",
+    "answer": "Eating disorders are serious illnesses marked by severe disturbances to one's eating behaviors. Common types include anorexia nervosa, binge-eating disorder, bulimia nervosa, and avoidant restrictive food intake disorder (ARFID). People with these types of symptoms may have an eating disorder and should talk to a health care provider. Help is available.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders"
+  },
+  {
+    "id": "nimh_what_are_common_types_of_eating_disorders_02",
+    "topic": "eating_disorders",
+    "question": "What is anorexia nervosa?",
+    "answer": "People with anorexia nervosa severely avoid or restrict food intake due to a distorted self-image or an intense fear of gaining weight.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders"
+  },
+  {
+    "id": "nimh_what_are_common_types_of_eating_disorders_03",
+    "topic": "eating_disorders",
+    "question": "What is the difference between binge-eating disorder and bulimia nervosa?",
+    "answer": "People with binge-eating disorder regularly lose control of their eating and eat unusually large amounts of food. People with bulimia nervosa also regularly binge eat, but then engage in unhealthy behaviors to prevent weight gain, such as forced vomiting or the use of laxatives.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders"
+  },
+  {
+    "id": "nimh_what_are_common_types_of_eating_disorders_04",
+    "topic": "eating_disorders",
+    "question": "What is ARFID (avoidant restrictive food intake disorder)?",
+    "answer": "People with ARFID limit the amount and variety of food they eat due to their anxiety or fear of the consequences of eating, or dislike of a food's characteristics.",
+    "source": "NIMH",
+    "is_synthetic": true,
+    "url": "https://www.nimh.nih.gov/health/publications/what-are-common-types-of-eating-disorders"
+  }
+]
