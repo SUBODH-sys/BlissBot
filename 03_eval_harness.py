@@ -12,6 +12,9 @@ Usage with your own retriever (Step 3+):
     evaluate(my_retrieve, corpus, golden, k_list=(1, 3, 5, 10))
 """
 import json, math, sys, collections
+from pathlib import Path
+corpus_path = Path('out_dir/bliss_corpus_clean.json')
+golden_path = Path('out_dir/golden_eval_set.json')
 
 def load(corpus_path, golden_path):
     return json.load(open(corpus_path, encoding="utf-8")), json.load(open(golden_path, encoding="utf-8"))
@@ -98,7 +101,7 @@ def tfidf_retriever(corpus, text_fn):
     return retrieve
 
 if __name__ == "__main__":
-    corpus, golden = load(sys.argv[1], sys.argv[2])
+    corpus, golden = load(corpus_path, golden_path)
     for name, fn in [("TF-IDF on question only", lambda d: d["question"]),
                      ("TF-IDF on question + answer", lambda d: d["question"] + " " + d["answer"])]:
         print(f"\n=== sanity baseline: {name} (tier A index; tier A+B for tier_b_only queries) ===")

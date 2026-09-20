@@ -10,8 +10,13 @@ Grades:  2 = directly answers the query   1 = relevant / supporting, not a direc
 Run: python 02_build_golden_set.py out/bliss_corpus_clean.json out/golden_eval_set.json
 """
 import json, re, sys, collections
+from pathlib import Path
 
-corpus = json.load(open(sys.argv[1], encoding="utf-8"))
+
+INPUT_FILE = Path("/workspaces/BlissBot/out_dir/bliss_corpus_clean.json")
+OUTPUT_FILE = Path("/workspaces/BlissBot/out_dir/golden_eval_set.json")
+
+corpus = json.load(open(INPUT_FILE, encoding="utf-8"))
 norm = lambda s: re.sub(r"\W+", " ", s.lower()).strip()
 IDX = [d for d in corpus if d["in_index"]]
 TIER_A = [d for d in IDX if d["tier"] == "A"]
@@ -438,5 +443,5 @@ meta = {
     "category_counts": dict(collections.Counter(i["category"] for i in items)),
     "route_counts": dict(collections.Counter(i["expected_route"] for i in items)),
 }
-json.dump({"meta": meta, "queries": items}, open(sys.argv[2], "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+json.dump({"meta": meta, "queries": items}, open(OUTPUT_FILE, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(json.dumps(meta["category_counts"], indent=1), json.dumps(meta["route_counts"], indent=1), len(items))

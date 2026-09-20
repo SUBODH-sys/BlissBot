@@ -1,0 +1,107 @@
+{
+ "raw_rows": 3214,
+ "raw_by_dataset": {
+  "nimh": 169,
+  "tolu07": 98,
+  "heliosbrahma": 172,
+  "counsel-chat": 2775
+ },
+ "raw_id_type_int": 172,
+ "raw_rows_with_shared_id": 2548,
+ "raw_unique_ids": 1207,
+ "dropped_total": 250,
+ "dropped_by_reason": {
+  "same_answer_reused_for_other_question": 11,
+  "exact_duplicate_pair": 2,
+  "promo_or_solicitation": 50,
+  "answer_missing": 24,
+  "answer_too_short_lt20w": 22,
+  "question_missing": 139,
+  "cross_source_duplicate_question_near_identical_answer": 2
+ },
+ "kept_rows": 2964,
+ "kept_by_dataset": {
+  "nimh": 169,
+  "tolu07": 96,
+  "heliosbrahma": 169,
+  "counsel-chat": 2530
+ },
+ "kept_by_tier": {
+  "A": 434,
+  "B": 2530
+ },
+ "excluded_from_index_by_reason": {
+  "route_to_safety_layer_not_llm_retrieval": 5,
+  "region_specific_service_navigation_BC": 25,
+  "not_knowledge_chitchat_or_refusal_template": 9,
+  "over_group_cap_5": 727,
+  "safety_sensitive_tierB": 102
+ },
+ "in_index_rows": 2096,
+ "in_index_by_tier": {
+  "A": 395,
+  "B": 1701
+ },
+ "in_index_by_dataset": {
+  "nimh": 167,
+  "tolu07": 70,
+  "heliosbrahma": 158,
+  "counsel-chat": 1701
+ },
+ "flag_counts": {
+  "safety_sensitive": 148,
+  "hotline_reference": 111,
+  "url_in_answer": 166,
+  "first_person_crisis_question": 5,
+  "region_specific_BC_Canada": 43,
+  "very_long_answer": 152,
+  "shared_answer_preamble": 7,
+  "ai_persona_text": 4,
+  "long_personal_post_question": 718,
+  "clinician_voice": 91
+ },
+ "raw_distinct_topics": 108,
+ "distinct_topic_norm": 98,
+ "topic_groups": {
+  "suicide_selfharm_crisis": 20,
+  "neurodevelopmental": 20,
+  "depression_mood": 311,
+  "psychosis_personality": 17,
+  "general_literacy": 95,
+  "eating_disorders": 23,
+  "anxiety_stress": 293,
+  "trauma_ptsd": 70,
+  "treatment_and_help": 116,
+  "grief": 18,
+  "coping_wellbeing": 220,
+  "substance_addiction": 50,
+  "relationships_family": 807,
+  "other": 36
+ },
+ "cc_question_groups": 822,
+ "cc_groups_over_cap": 82,
+ "cc_rows_in_groups_ge10_raw": 937,
+ "answer_words_by_dataset": {
+  "counsel-chat": {
+   "median": 140.0,
+   "p90": 331,
+   "max": 941
+  },
+  "heliosbrahma": {
+   "median": 147,
+   "p90": 266,
+   "max": 358
+  },
+  "tolu07": {
+   "median": 193.5,
+   "p90": 498,
+   "max": 1441
+  },
+  "nimh": {
+   "median": 48,
+   "p90": 76,
+   "max": 131
+  }
+ },
+ "cc_groups_ge10_raw": 43
+}

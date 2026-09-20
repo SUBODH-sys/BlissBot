@@ -12,7 +12,10 @@ import json, re, sys, collections, statistics as st
 from pathlib import Path
 import ftfy
 
-RAW = Path(sys.argv[1]); OUT = Path(sys.argv[2]); OUT.mkdir(parents=True, exist_ok=True)
+RAW = Path("/workspaces/BlissBot/PyschoEducationalDataset.json")
+OUT = Path("/workspaces/BlissBot/out_dir")
+OUT.mkdir(parents=True, exist_ok=True)
+
 raw = json.load(open(RAW, encoding="utf-8"))
 
 # ---------- helpers ----------------------------------------------------------
