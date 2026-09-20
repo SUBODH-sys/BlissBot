@@ -49,8 +49,9 @@ MODELS = {
     # smoke-test embedder: hashed word/char n-grams. NOT semantic. Only proves the pipeline runs.
     "fake-hash":  dict(name="fake-hash", max_len=0),
 }
-DEFAULT_MODELS = "minilm,bge-small,e5-base,bio-link-bert"
+DEFAULT_MODELS = 'bge-small' #"minilm,bge-small,e5-base,bio-link-bert"
 ALL_VARIANTS = ["q", "a", "qa", "q_max_a", "q_avg_a"]
+DEFAULT_VARIANTS = "q_max_a" 
 FIELDS_FOR = {"q": {"q"}, "a": {"a"}, "qa": {"qa"}, "q_max_a": {"q", "a"}, "q_avg_a": {"q", "a"}}
 
 def load_harness():
@@ -162,7 +163,7 @@ def main():
     ap.add_argument("--corpus", default=str(PROJECT_ROOT / "out_dir" / "bliss_corpus_clean.json"))
     ap.add_argument("--golden", default=str(PROJECT_ROOT / "out_dir" / "golden_eval_set.json"))
     ap.add_argument("--models", default=DEFAULT_MODELS, help=f"comma list from: {', '.join(MODELS)}")
-    ap.add_argument("--variants", default=",".join(ALL_VARIANTS))
+    ap.add_argument("--variants", default=DEFAULT_VARIANTS)
     ap.add_argument("--tier-b", action="store_true", help="also embed CounselChat rows (slower); enables tier_b_only scoring")
     ap.add_argument("--cache-dir", default="cache"); ap.add_argument("--results-dir", default="results")
     ap.add_argument("--batch-size", type=int, default=32); ap.add_argument("--device", default="cpu")
